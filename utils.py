@@ -10,3 +10,6 @@ def continue_working(params):
 
 def more_working(params):
     return 4
+
+def more_new(params):
+    return 5
