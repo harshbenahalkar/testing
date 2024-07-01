@@ -7,3 +7,6 @@ def third(params):
 
 def continue_working(params):
     return 3
+
+def more_working(params):
+    return 4
