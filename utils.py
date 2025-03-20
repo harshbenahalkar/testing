@@ -20,7 +20,7 @@ class NoIdeaInLife():
     """
     
     def __init__(self):
-        self.data = 25
+        self.data = 50
 
 
     def get_length(self):
