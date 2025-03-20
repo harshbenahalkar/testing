@@ -43,4 +43,10 @@ class SomeIdeaInLife():
     def new_length(self, check):
         """checks if check is same as bits
         """
-        return self.bits == check
+        return (2 * self.bits) == check
+    
+    def check_val(self):
+        """Returns double of data
+        """
+        return self.data * 2
+
