@@ -10,4 +10,4 @@ def now_i(parmas):
     return 6
 
 def branch_conflict_function(param):
-    return param + 1
+    return param + 2
