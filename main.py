@@ -26,4 +26,4 @@ class TestingConflict():
         return self.data + "branch-a"
 
     def function_third(self):
-        return self.data + "branch-a"
+        return self.data + "b"
