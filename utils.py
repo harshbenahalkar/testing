@@ -13,3 +13,18 @@ def more_working(params):
 
 def more_new(params):
     return 5
+
+
+class NoIdeaInLife():
+    """Just working on learning git PRs
+    """
+    
+    def __init__(self):
+        self.data = 15
+
+
+    def get_length(self):
+        """Returns data stored at init
+        """
+
+        return self.data 
