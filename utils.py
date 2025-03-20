@@ -20,11 +20,11 @@ class NoIdeaInLife():
     """
     
     def __init__(self):
-        self.data = 15
+        self.data = 25
 
 
     def get_length(self):
-        """Returns data stored at init
+        """Returns twice of data stored at init
         """
 
-        return self.data 
+        return self.data * 2
